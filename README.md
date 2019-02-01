@@ -1,3 +1,3 @@
 # hello-world
 
-ABCDE
+I think I know how to code :)
